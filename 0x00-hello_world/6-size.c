@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * int main - prints the size of various types on the computer
+ * main - prints the size of various types on the computer
  *
  * Description: using the printf command
  * this program prints the size of various types on the computer
- * Description: Return: 0
+ * Return: 0;
  * int main(0);
  */
 
