@@ -3,7 +3,7 @@
 /**
  * main - prints
  *
- * Description: new line 
+ * Description: new line
  * Return: 1;
  */
 
