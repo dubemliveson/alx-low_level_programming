@@ -7,7 +7,7 @@
  * this program prints the size of various types on the computer
  * Return : 0
  */
-int main()
+int main(void)
 {
 	char c;
 	int i;
