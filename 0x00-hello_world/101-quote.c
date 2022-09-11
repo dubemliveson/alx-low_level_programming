@@ -3,8 +3,8 @@
 /**
  * main - prints
  *
- * Description: prints and that piece of art is useful 
- * Return: 1;
+ * Description: new line 
+ * Return : 1;
  */
 
 int main(void)
