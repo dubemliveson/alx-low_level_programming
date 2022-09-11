@@ -4,7 +4,7 @@
  * main - prints
  *
  * Description: prints and that piece of art is useful 
- * Return - 1
+ * Return: 1;
  */
 
 int main(void)
