@@ -6,7 +6,6 @@
  * Description: using the printf command
  * this program prints the size of various types on the computer
  * Return: 0;
- * int main(0);
  */
 
 int main(void)
