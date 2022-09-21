@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,7 +6,9 @@
  * Result:0;
  */
 
-void print_alphabet(void)
+void print_alphabet(void);
+
+int main(void)
 {
 	char c;
 	for (c = 'a'; c <= 'z'; c++)
