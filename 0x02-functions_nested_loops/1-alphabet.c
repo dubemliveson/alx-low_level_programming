@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -6,15 +7,12 @@
  * Result:0;
  */
 
-int main(void)
-{
 void print_alphabet(void)
 {
 	char c;
-	for (c = 'a', c <= 'z', c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 	_putchar(c);
 	}
 	_putchar('\n');
-}
 }
