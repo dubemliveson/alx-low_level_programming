@@ -10,5 +10,5 @@
 int main(void)
 {
 	printf("_putchar %d\n");
-	return(0);
+	return (0);
 }
