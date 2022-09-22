@@ -2,7 +2,7 @@
 
 /**
  * cap_string - Captalizes all words of a string.
- * @str: The string to be capitalized
+ * @s: The string to be capitalized
  *
  * Return: A pointer to the changed string
  */
@@ -10,7 +10,7 @@
 char *cap_string(char *s)
 {
 	int i = 0, j;
-	char a[] = "\t\n,;.!?\"(){}";
+	char a[] = " \t\n,;.!?\"(){}";
 
 	while (*(s + i))
 	{
