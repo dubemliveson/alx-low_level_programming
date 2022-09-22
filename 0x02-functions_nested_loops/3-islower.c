@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - new taks
+ * _islower - new taks
+ * @c: single letter input
  * Description: i'm trying my best
  *
- * Result: 0
+ * Return: 0
  */
 
 int _islower(int c)
