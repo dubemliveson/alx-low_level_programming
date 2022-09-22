@@ -2,7 +2,7 @@
 
 /**
  * main - new doings
- * void print_alphabet(void) - function to print lowercase alphabets
+ * print_alphabet(void) - function to print lowercase alphabets
  * @void: does the job
  *
  * Description: new stuff
