@@ -7,7 +7,7 @@
  * Description: print_alphabet_x10 is a g
  */
 
-void print_alphabet_x10
+void print_alphabet_x10(void)
 {
 	char c, l;
 
