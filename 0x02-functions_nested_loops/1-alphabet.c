@@ -2,9 +2,7 @@
 
 /**
  * main - new doings
- * Description: writes alpahbets in lowercase with function print_alphabet
- *
- * void print_alphabet - function to print lowercase alphabets
+ * void print_alphabet(void) - function to print lowercase alphabets
  * @void: does the job
  *
  * Description: new stuff
