@@ -2,7 +2,7 @@
 
 /**
  * main - new doings
- * Description: writes alpahbets in lowercase
+ * Description: writes alpahbets in lowercase with function print_alphabet
  * Result:0;
  */
 
