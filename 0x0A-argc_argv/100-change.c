@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 		if (a <= 0)
 		{
 			puts("0");
-			return(1);
+			return (1);
 		}
 		else
 		{
