@@ -39,3 +39,4 @@ for (index = 0; str[index]; index++)
 cpy[len] = '\0';
 
 return (cpy);
+}
