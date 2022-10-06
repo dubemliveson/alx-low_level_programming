@@ -3,13 +3,12 @@
 /**
  * create_array - create an array of chars, and
  * initializes it with a specific char.
- * @size : size of the array
- * @c : character to insert
- * *_strdup : bass
+ * _strdup : new function
+ * @size : size
+ * @c : character
  * _str : life
  * Return: NULL if size is zero or if it fails,
- * pointer to array if everything is normal.
- */                                               
+ */
 
 char *_strdup(char *str)
 {
